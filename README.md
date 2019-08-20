@@ -22,3 +22,7 @@ https://github.com/firstfloorsoftware/mui.git
 6.ZFS
 
 https://gitee.com/zhgg666/publicWpf.git
+
+7.Byteart Retail
+
+https://github.com/daxnet/ByteartRetail.git

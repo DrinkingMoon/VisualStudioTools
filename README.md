@@ -26,3 +26,6 @@ https://gitee.com/zhgg666/publicWpf.git
 7.Byteart Retail
 
 https://github.com/daxnet/ByteartRetail.git
+
+8.ABP
+https://github.com/aspnetboilerplate/aspnetboilerplate.git

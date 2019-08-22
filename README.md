@@ -23,9 +23,14 @@ https://github.com/firstfloorsoftware/mui.git
 
 https://gitee.com/zhgg666/publicWpf.git
 
-7.Byteart Retail
+7.Byteart Retail-Apworks DDD框架
 
 https://github.com/daxnet/ByteartRetail.git
 
-8.ABP
+8.ABP DDD框架
+
 https://github.com/aspnetboilerplate/aspnetboilerplate.git
+
+9.ENode DDD框架
+
+https://github.com/tangxuehua/enode.git
